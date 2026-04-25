@@ -12,5 +12,5 @@ Raspberry Pi Photo Booth with USB Printer
 - 3x Male to Male Dupont Wires 
 - 1x Male XT60 to Male JST Adapter Conversion Cable 22AWG 10cm $9 (This wire is to connect the printer and the battery)
 - 1x Arcade Button to Spade/Female Dupont Wire (I couldn't find this online, so I went to an Electronics Store and they made it for me)
-- Micro USB
-
+- 1x Micro USB Chord 
+- 1x Power Supply with Switch 15W 5V 3A MicroUSB Power Switch ($9) 
