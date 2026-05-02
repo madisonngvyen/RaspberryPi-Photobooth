@@ -6,7 +6,7 @@ Raspberry Pi Photo Booth with USB Printer
 - 1x Raspberry Pi 3 Model B+ (~$40)
 - 1x Arcade Button ($7)
 - 1x 5 Inch DSI Display (Could be any size) ($36)
-- 1x MicroSD Card (16 GB+) (~$18) --> Buy a Flash Drive if your laptop does not have a MicroSD Insert
+- 1x MicroSD Card (16 GB+) (~$18) --> Buy a Flash Drive with a MicroSD card insert if your laptop does not have a MicroSD Insert
 - 1x Camera Module ($7)
 - 1x OVONIC 7.4V Lipo Battery 5000mAh 50C 2S ($19)
 - 3x Male to Male Dupont Wires 
